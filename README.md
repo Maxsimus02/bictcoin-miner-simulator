@@ -1,0 +1,1 @@
+# bictcoin-miner-simulator
